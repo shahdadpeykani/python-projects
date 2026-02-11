@@ -1,0 +1,2 @@
+# mile-to-kilometer-converter-Tkinter
+This repository contains a simple Mile to Kilometer Converter, which is my first program using the Tkinter library in Python. The application provides a basic graphical user interface (GUI) where users can input a distance in miles and convert it to kilometers with the click of a button. The project demonstrates my initial steps into creating GUI applications in Python.
