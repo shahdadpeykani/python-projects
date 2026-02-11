@@ -1,0 +1,2 @@
+# Amazon-Price-Tracker
+An Amazon Price Tracker that monitors the price of a specified product on Amazon. This project utilizes web scraping to extract product details and price information, then sends an email alert if the price drops below a user-defined threshold. Built with Python using libraries such as requests, BeautifulSoup, and smtplib, and configured with environment variables for secure email sending.
